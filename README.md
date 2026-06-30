@@ -66,12 +66,12 @@ This sample should be accepted.
 - Grammar items are entered comma-separated in the current UI.
 - The input string should also be comma-separated, for example `id,+,id`.
 
-## Push To GitHub
+##Project Team
 
-After reviewing the changes, you can push with:
-
-```powershell
-git add README.md requirements.txt .gitignore
-git commit -m "Add documentation and project setup"
-git push origin main
+```text
+Neer Aryan Bhatta,
+Ankit Kumar Karn,
+Kshitiz Khanal,
+Prajwal Pandey,
+Royas Shakya.
 ```
